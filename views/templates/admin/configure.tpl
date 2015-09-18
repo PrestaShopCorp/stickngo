@@ -57,7 +57,7 @@
 				<p class="col-xs-12 text-center">
 					<strong>
 						<h1><a href="http://www.boutique-avery.fr/test-sng,fr,8,48.cfm" target="_blank" title="landing page stickngo">
-							{l s='TEST STICK&GO NOW, RECEIVE YOU FREE TRIAL PACK!' mod='stickngo' }
+							{l s='TEST STICK&GO NOW' mod='stickngo' }
 						</a><h1>
 					<strong>
 				<p class="text-center">
