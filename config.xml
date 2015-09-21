@@ -2,7 +2,7 @@
 <module>
 	<name>stickngo</name>
 	<displayName><![CDATA[stickngo]]></displayName>
-	<version><![CDATA[1.0.0]]></version>
+	<version><![CDATA[1.0.1]]></version>
 	<description><![CDATA[The Stick&Go sheets allow you to have in a unique document your order form and your delivery label!]]></description>
 	<author><![CDATA[Avery]]></author>
 	<tab><![CDATA[shipping_logistics]]></tab>

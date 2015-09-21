@@ -35,7 +35,7 @@ class Stickngo extends Module
 	{
 		$this->name = 'stickngo';
 		$this->tab = 'shipping_logistics';
-		$this->version = '1.0.0';
+		$this->version = '1.0.1';
 		$this->author = 'Avery';
 		$this->need_instance = 0;
 
