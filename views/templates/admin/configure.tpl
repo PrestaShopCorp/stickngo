@@ -47,7 +47,7 @@
 						{l s='Be sure your shipments will arrive at the right destination.' mod='stickngo'}<br />
 						<li><strong>{l s='NO SETUP:' mod='stickngo'}</strong></li>
 						{l s='Stick’Ngo sheets were developed with PrestaShop teams. Your customer addresses are perfectly printed on a removable label.' mod='stickngo'}<br />
-						<li><strong>{l s='FREE DELIVERY FOR PRESTASHOP CUSTOMERS:' mod='stickngo'}</strong></li>
+						<li><strong>{l s='FREE DELIVERY ON YOUR FIRST ORDER' mod='stickngo'}</strong></li>
 						{l s='Enjoy a free shipping  welcome offer with the voucher code: Presta-14 *' mod='stickngo'}<h4><br />
 					</ul>
 				</p>
@@ -57,7 +57,7 @@
 				<p class="col-xs-12 text-center">
 					<strong>
 						<h1><a href="http://www.boutique-avery.fr/test-sng,fr,8,48.cfm" target="_blank" title="landing page stickngo">
-							{l s='TEST STICK&GO NOW, RECEIVE YOU FREE TRIAL PACK!' mod='stickngo' }
+							{l s='TEST STICK&GO NOW' mod='stickngo' }
 						</a><h1>
 					<strong>
 				<p class="text-center">
