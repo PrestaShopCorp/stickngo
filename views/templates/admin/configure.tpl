@@ -67,7 +67,7 @@
 			<div class="moduleconfig-content">
 				<img src="{$module_dir|escape:'html':'UTF-8'}views/img/logo1.png" />
 			<div class="col-md-11 text-center">
-			<a href="http://bit.ly/1YK2eSp" onclick="javascript:return true;"target="_blank" class="btn btn-primary" id="create-account-btn">{l s='Discover StickN’go' mod='stickngo'}</a>
+			<a href="http://bit.ly/1YK2eSp" target="_blank" class="btn btn-primary" id="create-account-btn">{l s='Discover StickN’go' mod='stickngo'}</a>
 			</div>
 			<div class="col-md-5">
 				<h5>{l s='* Voucher Code Presta-14 valid on your for first order for a StickN’Go product' mod='stickngo'}<h5>
