@@ -25,44 +25,52 @@
 
 <div class="panel">
 	<div class="row moduleconfig-header">
-		<div class="col-xs-5 text-right">
+		<div class="col-md-11 text-center">
+			<h2>{l s='StickN’go by AVERY' mod='stickngo'}</h2>
+		</div>
+		<div class="col-xs-5 col-md-3 text-center">
 			<img src="{$module_dir|escape:'html':'UTF-8'}views/img/logo.jpg" />
 		</div>
-		<div class="col-xs-7 text-left">
-			<h2>{l s='Stick&GO by AVERY' mod='stickngo'}</h2>
-		</div>
 	</div>
-
 	<hr />
-
 	<div class="moduleconfig-content">
 		<div class="row">
-			<div class="col-xs-12">
+			<div class="col-md-5">
 				<p>
-					<h4>{l s='The Stick&Go sheets allow you to have in a unique document your order form and your delivery label!' mod='stickngo'}</h4>
+					<h5>{l s='The StickN’Go sheets allow you to have in a unique document your order form and your delivery label!' mod='stickngo'}</h5>
 					<ul class="ul-spaced">
-						<h4><li><strong>{l s='SPEED:' mod='stickngo'}</strong></li>
-						{l s='Do not waste your time preparing delivery orders on one side and customers’ addresses on the other. Shipments and logistics preparation is critical to your business: poorly shipped packages (incorrect address or illegible) makes you lose time.' mod='stickngo'}<br />
-						<li><strong>{l s='MAXIMUM EFFICIENCY:' mod='stickngo'}</strong></li>
-						{l s='Be sure your shipments will arrive at the right destination.' mod='stickngo'}<br />
-						<li><strong>{l s='NO SETUP:' mod='stickngo'}</strong></li>
-						{l s='Stick’Ngo sheets were developed with PrestaShop teams. Your customer addresses are perfectly printed on a removable label.' mod='stickngo'}<br />
-						<li><strong>{l s='FREE DELIVERY ON YOUR FIRST ORDER' mod='stickngo'}</strong></li>
-						{l s='Enjoy a free shipping  welcome offer with the voucher code: Presta-14 *' mod='stickngo'}<h4><br />
+						<li>
+							<strong>{l s='SPEED:' mod='stickngo'}</strong>
+							{l s='Do not waste your time preparing delivery orders on one side and customers’ addresses on the other. Shipments and logistics preparation is critical to your business: poorly shipped packages (incorrect address or illegible) makes you lose time.' mod='stickngo'}
+						</li>
+						<li>
+							<strong>{l s='MAXIMUM EFFICIENCY:' mod='stickngo'}</strong>
+							{l s='Be sure your shipments will arrive at the right destination.' mod='stickngo'}<br />
+						</li>
+
+						<li>
+							<strong>{l s='NO SETUP:' mod='stickngo'}</strong>
+							{l s='StickN’go sheets were developed with PrestaShop teams. Your customer addresses are perfectly printed on a removable label.' mod='stickngo'}<br />
+						</li>
+						<br />					
+						<li>
+							<strong>{l s='FREE DELIVERY ON YOUR FIRST ORDER' mod='stickngo'}</strong>
+							{l s='Enjoy a free shipping  welcome offer with the voucher code: Presta-14 *' mod='stickngo'}<h4><br />
+						</li>
 					</ul>
 				</p>
+			</div>	
+			<div class="col-md-5 text-center">
+				<h5>{l s='How does it work?' mod='stickngo'}</h5>
+				<iframe width="500" height="281" src="//www.youtube.com/embed/Siu9S9iMPTs" frameborder="0" allowfullscreen></iframe>
+			</div>
 			<div class="moduleconfig-content">
 				<img src="{$module_dir|escape:'html':'UTF-8'}views/img/logo1.png" />
+			<div class="col-md-11 text-center">
+			<a href="http://bit.ly/1YK2eSp" target="_blank" class="btn btn-primary" id="create-account-btn">{l s='Discover StickN’go' mod='stickngo'}</a>
 			</div>
-				<p class="col-xs-12 text-center">
-					<strong>
-						<h1><a href="http://www.boutique-avery.fr/test-sng,fr,8,48.cfm" target="_blank" title="landing page stickngo">
-							{l s='TEST STICK&GO NOW' mod='stickngo' }
-						</a><h1>
-					<strong>
-				<p class="text-center">
-						<h5>{l s='* Voucher Code Presta-14 valid on your for first order for a StickN’Go product' mod='stickngo'}<h5>
-				</p>
+			<div class="col-md-5">
+				<h5>{l s='* Voucher Code Presta-14 valid on your for first order for a StickN’Go product' mod='stickngo'}<h5>
 			</div>
 		</div>
 	</div>
